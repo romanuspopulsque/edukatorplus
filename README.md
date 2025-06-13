@@ -31,7 +31,7 @@ Aplikacija je izrađena kao projektni zadatak za kolegij **Informacijsko-komunik
 1. Kloniraj ili otvori projekt u NetBeansu.  
 2. Kreiraj bazu u MySQL-u:
    ```sql
-   CREATE DATABASE edukator_plus;
+   CREATE DATABASE edukatorplus;
    ```
 3. Ažuriraj `application.properties` s vlastitim DB podacima.
 4. Pokreni aplikaciju desnim klikom na `Start.java` → `Run`.
